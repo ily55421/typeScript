@@ -37,3 +37,10 @@ https://registry.npm.taobao.org/
 
 ![1652235750344](image/1652235750344.png)
 
+## 在指令前加上 npx 可直接运行
+
+```bash
+PS D:\学习资料\typora\src\js\typescript-tutorial\examples\eslint> npx ts-node index.ts
+1
+```
+
